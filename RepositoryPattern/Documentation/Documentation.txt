@@ -1,0 +1,28 @@
+﻿	
+					******** Steps to use Repository Pattern **********
+
+			# First Create your main project ex:- Repository Pattern project.
+
+			# Now add one more project ex:- DataAccessLayer for access data from Database.
+				
+			# Now add one more project ex:- BusinessLayer to write a business logic for your application.
+
+			# Now add one more project ex:- DataTransferObject to transfer/retrieve your data by HelperModel class.
+
+			# Now add refrence of EntityFrame Work in your "DataAccessLayer", "BusinessLayer" and  "Repository Pattern".
+
+			# Now add refrence of "DataAccessLayer" and "DataTransferObject" in "BusinessLayer" project to use Entity and helper model class. 
+				
+			# Now add class "BusinessAccessLayer" in your "BusinessLayer" project and write all CRUD logic here.
+
+			# Now add interface class "IBusinessLayer" in your	"BusinessLayer" project and call here all BusinessAccessLayer method.
+
+			# Now add refrence of "BusinessLayer" in your main project to access all opration.
+
+			# Now add controller in your project and call all method in actions.
+
+			# for applying DI in your project install Unity.MVC5 and follow some steps.
+
+			# Ok your "Repository Pattern" project in ready.
+
+				Happy Coding...  WA7				

@@ -1,0 +1,16 @@
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\Company_Task\RepositoryPattern\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\Company_Task\RepositoryPattern\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Company_Task\RepositoryPattern\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\Company_Task\RepositoryPattern\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Company_Task\RepositoryPattern\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\DataTransferObject.dll
+E:\Company_Task\RepositoryPattern\BusinessLayer\bin\Debug\DataTransferObject.pdb
